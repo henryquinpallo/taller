@@ -1,0 +1,43 @@
+.panel{
+    max-width: 800px;
+    padding: 20px;
+    margin: auto;
+    background: rgb(240, 240, 240);
+}
+.text-center{
+    text-align: center;
+    color: black;
+}
+table{ width: 100%;}
+table,tr,td{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+.btn_nuevo{
+	background: rgb(1, 4, 156);
+	color: rgb(255, 255, 255);
+	padding: 10px 10px;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.btn_editar{
+	background: rgb(2, 161, 29);
+	color: black;
+	padding: 10px 10px;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.btn_eliminar{
+	background: rgb(211, 0, 0);
+	color: black;
+	padding: 10px 10px;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.encabezado{
+    background: rgb(71, 71, 71);
+    color: #ffffff;
+}
