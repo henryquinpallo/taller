@@ -9,7 +9,7 @@
 </head>
 <body>
    <div class="panel">
-       <h1 class="text-center" class="btn">Micro mercado Henry punto dos</h1>
+       <h1 class="text-center" class="btn">Micro mercado Henry</h1>
        <div align="center"><img width= "200"  src="frutas.jpeg"></div>
        
        <h1 class="text-center">Administracion de productos</h1>
